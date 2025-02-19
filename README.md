@@ -18,7 +18,7 @@
 ## 📂 Project Structure 
 
 ```
-📁 Secure-Steganography-App  
+📁 Steganography-App  
  ├── 📄 Main.py          # Main interface & GUI logic  
  ├── 📄 Encrypt.py       # Encoding & encryption logic  
  ├── 📄 Decrypt.py       # Decoding & decryption logic  
