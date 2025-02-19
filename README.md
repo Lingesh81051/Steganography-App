@@ -64,7 +64,7 @@ python Main.py
 ## 🚀 How to Use? 
 
 ### 🔒 Encoding (Hiding Data)
-1️⃣ Select an **image** to hide the message.  
+1️⃣ Run **main.py** & choose an **image** to hide the message.  
 2️⃣ Choose **message input** (Type manually or Upload file).  
 3️⃣ Pick an **encryption algorithm** & enter a **password**.  
 4️⃣ Click **"Encode"** to embed data.  
