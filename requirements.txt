@@ -1,39 +1,37 @@
 For your steganography app, the `requirements.txt` file should list all the necessary Python libraries needed for the project to run smoothly. Here’s a structured and professional format for your GitHub repository:
 
 
-1) Create a `requirements.txt` File
-  In your project’s root folder, create a new file named `requirements.txt`.  
-  Add the necessary dependencies in a clean, version-specific format.  
-
-  Example `requirements.txt` for my Project  
-
-  tkinter  #GUI Interface (comes pre-installed with Python)
-  pillow  #Image Processing
-  cryptography  #Encryption and Decryption
-  numpy  #Image Array Handling
-  opencv-python  #Image Processing and Manipulation
-  pyperclip  #Clipboard Handling
-
+1) dependencies for my Project  
+    ----------------------------------------------------------
+    tkinter  #GUI Interface (comes pre-installed with Python)
+    pillow  #Image Processing
+    cryptography  #Encryption and Decryption
+    numpy  #Image Array Handling
+    opencv-python  #Image Processing and Manipulation
+    pyperclip  #Clipboard Handling
+    ----------------------------------------------------------
 Note: `tkinter` comes pre-installed with Python, so it doesn’t need to be installed separately.  
 
 
  2) How to Install Dependencies?  
-  To install all required libraries, users can run:  
-
-  pip install -r requirements.txt
-
-  This will automatically download and install all the dependencies needed for your project.
+    To install all required libraries, users can run:  
+    -------------------------------
+    pip install -r requirements.txt
+    -------------------------------
+    This will automatically download and install all the dependencies needed for your project.
 
 
  3) Additional Notes  
-  If you have specific versions of libraries that work best with your app, you can specify them like this:  
+    If you have specific versions of libraries that work best with your app, you can specify them like this:  
+    -----------------------------
+    pillow==9.0.1
+    cryptography>=3.4.8
+    -----------------------------
 
-  pillow==9.0.1
-  cryptography>=3.4.8
+    To generate a fresh `requirements.txt` from an existing environment, run:  
+    -----------------------------
+    pip freeze > requirements.txt
+    -----------------------------
 
-  To generate a fresh `requirements.txt` from an existing environment, run:  
-
-  pip freeze > requirements.txt
-
-  This ensures all current dependencies are captured.
+    This ensures all current dependencies are captured.
 
