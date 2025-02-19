@@ -101,6 +101,6 @@ This project is **open-source** and licensed under the **MIT License**.
 ---
 
 ## 📩 Contact 
-For any queries or suggestions, feel free to reach out! 🚀  
+For any queries or suggestions, feel free to contact lingeshrm2002@gmail.com — we'd love to hear from you! 🚀  
 
 ---
