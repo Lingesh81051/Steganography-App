@@ -4,7 +4,7 @@
 
 ---
 
-## ▶️ Steganography App Tutorial – Hide & Decode Messages
+## ▶️ Steganography App Tutorial – Hide & Reveal Messages
 https://github.com/user-attachments/assets/daa539ca-0329-49c5-a313-70636a950fd9
 
 ---
