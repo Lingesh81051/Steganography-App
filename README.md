@@ -22,7 +22,6 @@
  ├── 📄 Main.py          # Main interface & GUI logic  
  ├── 📄 Encrypt.py       # Encoding & encryption logic  
  ├── 📄 Decrypt.py       # Decoding & decryption logic  
- ├── 📁 assets/          # Sample images & icons  
  ├── 📄 README.md        # Documentation  
  ├── 📄 requirements.txt # Dependencies  
 ```
