@@ -1,4 +1,4 @@
-For your steganography app, the `requirements.txt` file should list all the necessary Python libraries needed for the project to run smoothly. Here’s a structured and professional format for your GitHub repository:
+For the steganography app, the `requirements.txt` file should list all the necessary Python libraries needed for the project to run smoothly.
 
 
 1) dependencies for my Project  
